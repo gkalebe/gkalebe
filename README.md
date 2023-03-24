@@ -20,9 +20,6 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/651087773553655859)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_.gkalebe)
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0;">
-  <iframe src="https://giphy.com/embed/3o7qDSOvfaCO9b3MlO" style="position: absolute; width: 100%; height: 100%; left: 0; top: 0; border: 0; overflow: hidden;"> ![snake animation](https://github.com/gkalebe/gkalebe/blob/output/github-contribution-grid-snake.svg)
-</iframe>
-</div>
+
 ![snake animation](https://github.com/gkalebe/gkalebe/blob/output/github-contribution-grid-snake.svg)
 
