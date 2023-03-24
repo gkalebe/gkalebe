@@ -5,7 +5,7 @@
 ![gkalebe GitHub stats](https://github-readme-stats.vercel.app/api?username=gkalebe&theme=dracula&show_icons=true)
 <hr>
 
-##Habilidades em:
+## Habilidades em:<br/>
 <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
 
 ## Estudando:
