@@ -12,6 +12,7 @@
 <div style="display: inline_block"><br/>
   <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
 <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+  https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white>
    
 </div>
 <hr>
@@ -20,4 +21,4 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/651087773553655859)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_.gkalebe)
 
-![snake gif](https://github.com/gkalebe/gkalebe/blob/output/github-contribution-grid-snake.svg)
+
