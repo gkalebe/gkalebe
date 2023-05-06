@@ -1,6 +1,6 @@
 ## Graduation (in progress)
-📖 Engenharia de Software / Software Engineering
-📆 2022 - ≈2026
+📖 Ciências da Computação <br>
+📆 2022 - ≈2026<br>
 📍 Universidade Catolica de Brasilia / Catholic University of Brasilia - Brasília, Brazil
 <div align="center">
   <a href="https://github.com/gkalebe">
