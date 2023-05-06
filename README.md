@@ -1,4 +1,7 @@
-## Gabriel Aqui
+## Graduation (in progress)
+📖 Engenharia de Software / Software Engineering
+📆 2022 - ≈2026
+📍 Universidade Catolica de Brasilia / Catholic University of Brasilia - Brasília, Brazil
 <div align="center">
   <a href="https://github.com/gkalebe">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gkalebe&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
