@@ -5,13 +5,14 @@
  <a href="https://discord.gg/VzH746q7Dd" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/gabriel-kalebe/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     </div>
+    
 ## Graduação (em progresso)
 📖 Ciências da Computação <br>
 📆 2022 - ≈2026<br>
 📍 Universidade Catolica de Brasilia / Catholic University of Brasilia - Brasília, Brazil<br>
 
 
-### Github Stats
+### 📊Github Stats
 <div align="center">
   <a href="https://github.com/gkalebe">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gkalebe&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
