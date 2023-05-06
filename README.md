@@ -1,7 +1,12 @@
-## Graduation (in progress)
+## ¡Hola, Yo soy Gabriel Kalebe 
+
+## Graduação (em progresso)
 📖 Ciências da Computação <br>
 📆 2022 - ≈2026<br>
-📍 Universidade Catolica de Brasilia / Catholic University of Brasilia - Brasília, Brazil
+📍 Universidade Catolica de Brasilia / Catholic University of Brasilia - Brasília, Brazil<br>
+
+
+### Github Stats
 <div align="center">
   <a href="https://github.com/gkalebe">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gkalebe&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
