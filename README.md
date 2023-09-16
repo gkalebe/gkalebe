@@ -25,8 +25,8 @@
 ### 📊Github Stats
 <div align="center">
   <a href="https://github.com/gkalebe">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gkalebe&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gkalebe&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=gkalebe&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gkalebe&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
   <img src="https://camo.githubusercontent.com/6b68754bfe9a1bc4abebfabc34d4701bae4fa96c73172f2788d6a4163b0ce38c/68747470733a2f2f692e696d6775722e636f6d2f644261534b57462e676966" height="20" width="100%"/>
