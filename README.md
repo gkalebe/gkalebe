@@ -19,8 +19,6 @@
 📍 Universidade Catolica de Brasilia / Catholic University of Brasilia - Brasília, Brazil<br>
 
 
-<
-
 ### 📊Github Stats
 <div align="center">
   <a href="https://github.com/gkalebe">
