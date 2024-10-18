@@ -55,18 +55,6 @@
      <img src="https://github-profile-trophy.vercel.app/?username=gkalebe&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
   </div>
   
- 
-  
-<h3> Estudando: </h3>
-
-<div style="display: inline_block"><br/>
-
-  <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-<img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
- <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-
-</div>
 
  ![snake gif](https://github.com/HenriqueLopes42/HenriqueLopes42/blob/output/github-contribution-grid-snake.svg)
 
