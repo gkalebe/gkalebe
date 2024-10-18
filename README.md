@@ -10,14 +10,6 @@
 
  
  
-
- 
-##
-   <div align="center" >
-     <img src="https://github-profile-trophy.vercel.app/?username=isaac545454&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
-  </div>
-  
- 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=d4d4d4&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Gabriel+Kalebe;I'm+21+years+old;I'm+from+Brazil;I+studying+computer+science;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
@@ -55,6 +47,14 @@
   <br />
 
   </div>
+
+
+   
+##
+   <div align="center" >
+     <img src="https://github-profile-trophy.vercel.app/?username=gkalebe&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
+  </div>
+  
  
   
 <h3> Estudando: </h3>
