@@ -14,7 +14,7 @@
 
  
 ## Graduação (em progresso)
-📖 Ciências da Computação <br>
+📖 Ciência da Computação <br>
 📆 2022 - ≈2026<br>
 📍 Universidade Catolica de Brasilia / Catholic University of Brasilia - Brasília, Brazil<br>
 
